@@ -6,7 +6,7 @@ Solution of Nestor Cardozo (http://www.ux.uis.no/~nestor/work/matlabScripts.html
 
 ## One of the modelling outcomes:
 
-![Image from the article](https://github.com/kriszieba/terrain-tilting/blob/master/compensation2.tif)
+![Image from the article](https://ars.els-cdn.com/content/image/1-s2.0-S0264817216302884-gr4.jpg)
 
 ## Link to the article
 https://www.sciencedirect.com/science/article/pii/S0264817216302884
